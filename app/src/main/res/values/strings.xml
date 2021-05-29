@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GroceryBazaarAdmin</string>
+    <string-array name="CategoryName">
+        <item>Choose from the Options</item>
+        <item>Beverages</item>
+        <item>Bakery</item>
+        <item>Canned Goods</item>
+        <item>Dairy</item>
+        <item>Frozen Foods</item>
+        <item>Cleaners</item>
+        <item>Paper Goods</item>
+        <item>Personal Care</item>
+        <item>Fruits</item>
+        <item>Vegetables</item>
+    </string-array>
+</resources>
